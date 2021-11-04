@@ -22,7 +22,7 @@ Lorsque l'utilisateur est satisfait de son menu de la semaine, une liste de cour
 
 ## Etapes du projet
 1. Récupérer les données concernant les fruits et légumes de saison DONE
-2. Créer une fonction qui prend en entrée un entier, pour le nombre de plats à renvoyer, et renvoie les plats ne comportant que des fruits et légumes de saison
+2. Créer une fonction qui prend en entrée un entier, pour le nombre de plats à renvoyer, et renvoie les plats ne comportant que des fruits et légumes de saison DONE
 3. Ajouter un filtre pour la provenance du plat (asiatique, français...)
 4. Ajouter un filtre concernant le régime alimentaire
 5. Adapter la fonction pour pouvoir exclure des plats directement (afin d'éviter d'avoir 2 fois la même chose la même semaine, lorsqu'on veut changer un plat)
